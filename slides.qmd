@@ -3,6 +3,27 @@ title: "Nanopub 101"
 format: revealjs
 ---
 
-## Quarto
+## What is Nanopub
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Nanopub ...
+
+## Register your account
+
+If you have don't have an account yet, please register at [nanodash](https://nanodash.knowledgepixels.com) using your ORCID iD.
+
+![Registration page](images/register.png)
+
+## What is ORCID iD?
+
+## Intro to user
+
+## Approval of user
+
+## Use a template
+
+- Participation in an event template
+- For Open Science Retreat 2026
+
+## Ammendment
+
+
