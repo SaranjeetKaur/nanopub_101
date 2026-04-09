@@ -72,7 +72,7 @@ Example screenshot of papers linked in an ORCID profile.
 ::::
 
 
-## Authorise ORCID iD and enter your Nanodash account
+## Authorise ORCID iD and enter your Nanodash account {.scrollable}
 
 ::: columns
 ::: column
