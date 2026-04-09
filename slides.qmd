@@ -85,7 +85,7 @@ Example screenshot of papers linked in an ORCID profile.
 :::
 
 
-## Intro to user
+## Introduction of an User
 
 Click on the profile icon in the top right corner to access your profile page.
 
@@ -93,13 +93,22 @@ Click on the profile icon in the top right corner to access your profile page.
 
 Then click on the "See Your Profile Details" button to access your profile details.
 
-## Create introduction
+## Create Introduction
 
 Inside the Profile Details page, click on the "Create Introduction" button to create your introduction.
 
 ![Create introduction](images/intro.png)
 
-## Approval of user
+## Approval of an User
+
+Next on our list: approval of a user. Users can be approved by approved users.
+
+![](images/approval_with_highlighting.png)
+
+. . .
+
+Task: approve your neighbour(s)!
+
 
 ## Nanopublication template
 
