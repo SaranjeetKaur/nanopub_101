@@ -27,6 +27,8 @@ This is an example Nanopub, a dataset description
 ::::
 
 
+
+
 ## Register your account
 
 If you have don't have an account yet, please register at [nanodash](https://nanodash.knowledgepixels.com) using your ORCID iD.
@@ -35,9 +37,27 @@ If you have don't have an account yet, please register at [nanodash](https://nan
 
 ## What is ORCID iD?
 
+## Authorise ORCID iD and enter your Nanodash account
+
+::: columns
+::: column
+![Authorise ORCID](images/authorise_orcid.png)
+:::
+
+::: column
+![Landing page](images/enter_nanodash.png)
+:::
+:::
+
+
 ## Intro to user
 
+
 ## Approval of user
+
+## Nanopublication template
+
+![Nanopublication workflow](images/nanopub_logo.png)
 
 ## Use a template
 
@@ -45,5 +65,7 @@ If you have don't have an account yet, please register at [nanodash](https://nan
 - For Open Science Retreat 2026
 
 ## Ammendment
+
+
 
 
