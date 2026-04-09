@@ -166,3 +166,24 @@ Select and enter a DOI of a recently read paper.
 - For Open Science Retreat 2026
 
 
+## And now? Where to go from here? {.scrollable}
+
+This workshop _merely_ gave an overview. There is so much more:
+
+::: {.incremental}
+
+- Community:
+  - [Nano Sessions](https://nanopub.net/sessions/) - every last Tuesday of a month - reports from practitioners - you may ask questions -  [register here with a nanopub](https://nanodash.knowledgepixels.com/space?id=https://w3id.org/spaces/nanopub/nanosessions)
+  - [FENAC](https://nanodash.knowledgepixels.com/space?id=https://w3id.org/spaces/fenac) the "Fearless Early Nanopub Adopters Club" - sign up per nanopub, if you want to know more - members of this club get prioritized feature requests and can claim a free one-on-one call with a core nanopublication/Nanodash developer. 
+- Resources:
+  - [the official tutorial selection](https://nanopub.net/docs/tutorials/)
+  - [the documentation](https://nanopub.net/docs/)
+- Software which offers an API for automated publication:
+  - [the Java library](https://github.com/Nanopublication/nanopub-java)
+  - [the Python library](https://github.com/Nanopublication/nanopub-py/)
+- Software which uses the API:
+  - [the Snakemake reporter plugin for posting workflow metadata](https://github.com/snakemake/snakemake-report-plugin-nanopub/)
+
+
+
+:::
