@@ -98,6 +98,12 @@ Inside the Profile Details page, click on the "Create Introduction" button to cr
 
 ![Create introduction](images/intro.png)
 
+## And then ...
+
+Once inside the introduction page, you will see a "Create Nanopublication" form.
+
+![Create nanopublication](images/intro_nanopub.png)
+
 ## Approval of user
 
 ## Nanopublication template
