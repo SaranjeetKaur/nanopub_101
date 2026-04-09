@@ -52,6 +52,17 @@ If you have don't have an account yet, please register at [nanodash](https://nan
 
 ## Intro to user
 
+Click on the profile icon in the top right corner to access your profile page.
+
+![Profile page](images/profile.png)
+
+Then click on the "See Your Profile Details" button to access your profile details.
+
+## Create introduction
+
+Inside the Profile Details page, click on the "Create Introduction" button to create your introduction.
+
+![Create introduction](images/intro.png)
 
 ## Approval of user
 
