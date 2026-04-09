@@ -3,9 +3,29 @@ title: "Nanopub 101"
 format: revealjs
 ---
 
-## What is Nanopub
+## What is a Nanopub?
 
-Nanopub ...
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+![](images/nanopub_logo.png)
+
+Think of a Nanopub as a little knowledge container
+
+:::
+
+
+::: {.column width="70%"}
+
+![](images/example_nanopub_dataset.png)
+This is an example Nanopub, a dataset description
+
+:::
+
+::::
+
 
 ## Register your account
 
