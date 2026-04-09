@@ -27,6 +27,8 @@ This is an example Nanopub, a dataset description
 ::::
 
 
+
+
 ## Register your account
 
 If you have don't have an account yet, please register at [nanodash](https://nanodash.knowledgepixels.com) using your ORCID iD.
@@ -70,9 +72,38 @@ Example screenshot of papers linked in an ORCID profile.
 ::::
 
 
+## Authorise ORCID iD and enter your Nanodash account
+
+::: columns
+::: column
+![Authorise ORCID](images/authorise_orcid.png)
+:::
+
+::: column
+![Landing page](images/enter_nanodash.png)
+:::
+:::
+
+
 ## Intro to user
 
+Click on the profile icon in the top right corner to access your profile page.
+
+![Profile page](images/profile.png)
+
+Then click on the "See Your Profile Details" button to access your profile details.
+
+## Create introduction
+
+Inside the Profile Details page, click on the "Create Introduction" button to create your introduction.
+
+![Create introduction](images/intro.png)
+
 ## Approval of user
+
+## Nanopublication template
+
+![Nanopublication workflow](images/nanopub_logo.png)
 
 ## Use a template
 
@@ -80,5 +111,7 @@ Example screenshot of papers linked in an ORCID profile.
 - For Open Science Retreat 2026
 
 ## Ammendment
+
+
 
 
