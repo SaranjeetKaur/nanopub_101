@@ -116,6 +116,26 @@ Next on our list: approval of a user. Users can be approved by approved users.
 
 Task: approve your neighbour(s)!
 
+## Publish using a Template
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+![](images/publish_menu.png)
+
+Select "Publish" from the menu.
+:::
+
+::: {.column width="70%"}
+
+![](images/publish_templates.png)
+
+Then you _can_ choose from the list of templates. (We are going to publish together. Please wait.)
+
+:::
+
+::::
 
 ## Nanopublication template
 
