@@ -33,7 +33,42 @@ If you have don't have an account yet, please register at [nanodash](https://nan
 
 ![Registration page](images/register.png)
 
-## What is ORCID iD?
+## Interlude: What is an ORCID?
+
+ORCID stands for **O**pen **R**esearcher and **C**ontributor **ID**.
+
+::: {.incremental}
+
+- free, unique & persitent ID
+- show your research interest, funding, employment and **publications** (sometimes they add automagically with crossref)
+- useful in research to be found:
+  - for agencies to look you up during proposal reviews
+  - to find colleagues (and see how actively they are engaged and in which topics)
+
+:::
+
+## Interlude: What is an ORCID? II
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+![](images/orcid_profile_links_keywords.png)
+
+Example screenshot with links and research interests.
+:::
+
+
+::: {.column width="70%"}
+
+![](images/orcid_paper_examples.png)
+
+Example screenshot of papers linked in an ORCID profile.
+
+:::
+
+::::
+
 
 ## Intro to user
 
