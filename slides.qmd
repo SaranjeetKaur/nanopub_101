@@ -53,7 +53,7 @@ ORCID stands for **O**pen **R**esearcher and **C**ontributor **ID**.
 
 :::: {.columns}
 
-::: {.column width="30%"}
+::: {.column width="25%"}
 
 ![](images/orcid_profile_links_keywords.png)
 
@@ -61,7 +61,7 @@ Example screenshot with links and research interests.
 :::
 
 
-::: {.column width="70%"}
+::: {.column width="65%"}
 
 ![](images/orcid_paper_examples.png)
 
