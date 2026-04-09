@@ -137,6 +137,18 @@ Then you _can_ choose from the list of templates. (We are going to publish toget
 
 ::::
 
+## Your first Nanopub! {.scrollable}
+
+Let's select an easy template: Search for "Announcing a paper I have read"
+
+. . .
+
+![](images/publish_paper_read.png)
+
+. . .
+
+Select and enter a DOI of a recently read paper.
+
 ## Nanopublication template
 
 ![Nanopublication workflow](images/nanopub_logo.png)
@@ -146,4 +158,4 @@ Then you _can_ choose from the list of templates. (We are going to publish toget
 - Participation in an event template
 - For Open Science Retreat 2026
 
-## Ammendment
+
