@@ -87,7 +87,6 @@ Example screenshot of papers linked in an ORCID profile.
 
 ## Introduction of an User
 
-
 Click on the profile icon in the top right corner to access your profile page.
 
 ![Profile page](images/profile.png)
@@ -105,6 +104,14 @@ Inside the Profile Details page, click on the "Create Introduction" button to cr
 Once inside the introduction page, you will see a "Create Nanopublication" form.
 
 ![Create nanopublication](images/intro_nanopub.png)
+
+## Complete your introduction
+
+Under the "Introducing a user" section, add your name as you would like it to appear on your profile.
+
+![Complete introduction](images/complete_intro.png)
+
+Finally, after you are happy to check the publication button, you should be able to click on the "Publish" button to publish your introduction.
 
 ## Approval of an User
 
