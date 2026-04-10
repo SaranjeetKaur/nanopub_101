@@ -180,15 +180,49 @@ Let's select an easy template: Search for "Announcing a paper I have read"
 
 Select and enter a DOI of a recently read paper.
 
-## Nanopublication template
+## Modifying a Template
 
-![Nanopublication workflow](images/nanopub_logo.png)
+There are many templates for different purposes and disciplines. _But_, sometimes you need some new template ...
 
-## Use a template
+::: {.callout-tip}
+# First look, then leap
 
-- Participation in an event template
-- For Open Science Retreat 2026
+It is better not to "pollute" the nanopub template space. First look or ask for existing templates.
+:::
 
+. . .
+
+::: {.callout-note collapse="true"}
+
+We are **not** going to create a new template in this workshop. But we will briefly show you how its done.
+:::
+
+## Modifying a Template II {.smaller}
+
+::: {.incremental}
+
+1. start by selecting a suitable (similar) template and select the little blue caret\
+   ![](images/new_template_01.png)
+2. then select "edit as derived nanopublication"\
+   ![](images/new_template_02.png){width="15cm"}
+
+:::
+
+## Modifying a Template III
+
+::: {.callout-tip}
+# Start small
+
+Creating a new assertion template can be difficult. Start with an easy (or small) one.
+:::
+
+. . .
+
+::: {.callout-tip}
+# Ask for help!
+
+If you need substantial changes, ask for help. (In the end we show some resources.)
+:::
 
 ## And now? Where to go from here? {.scrollable}
 
