@@ -113,6 +113,12 @@ Under the "Introducing a user" section, add your name as you would like it to ap
 
 Finally, after you are happy to check the publication button, you should be able to click on the "Publish" button to publish your introduction.
 
+## A published introduction ...
+
+Once the introduction is published, you should now be able to view your name on it.
+
+![Published introduction](images/name_profile.png)
+
 ## Approval of an User
 
 Next on our list: approval of a user. Users can be approved by approved users.
@@ -174,7 +180,7 @@ This workshop _merely_ gave an overview. There is so much more:
 
 - Community:
   - [Nano Sessions](https://nanopub.net/sessions/) - every last Tuesday of a month - reports from practitioners - you may ask questions -  [register here with a nanopub](https://nanodash.knowledgepixels.com/space?id=https://w3id.org/spaces/nanopub/nanosessions)
-  - [FENAC](https://nanodash.knowledgepixels.com/space?id=https://w3id.org/spaces/fenac) the "Fearless Early Nanopub Adopters Club" - sign up per nanopub, if you want to know more - members of this club get prioritized feature requests and can claim a free one-on-one call with a core nanopublication/Nanodash developer. 
+  - [FENAC](https://nanodash.knowledgepixels.com/space?id=https://w3id.org/spaces/fenac) the "Fearless Early Nanopub Adopters Club" - sign up per nanopub, if you want to know more - members of this club get prioritized feature requests and can claim a free one-on-one call with a core nanopublication/Nanodash developer.
 - Resources:
   - [the official tutorial selection](https://nanopub.net/docs/tutorials/)
   - [the documentation](https://nanopub.net/docs/)
