@@ -219,10 +219,20 @@ Creating a new assertion template can be difficult. Start with an easy (or small
 . . .
 
 ::: {.callout-tip}
-# Ask for help!
+# Ask for input!
 
 If you need substantial changes, ask for help. (In the end we show some resources.)
 :::
+
+## What can you do with Nanopubs?
+
+Construct knowledgegraphs for your paper!
+
+. . .
+
+![Example knowledgefrage for a data analysis workflow (which nanopub IDs)](images/Snakemake_Metadata.png)
+
+Created with [the Snakemake reporter plugin for posting workflow metadata](https://github.com/snakemake/snakemake-report-plugin-nanopub/).
 
 ## And now? Where to go from here? {.scrollable}
 
