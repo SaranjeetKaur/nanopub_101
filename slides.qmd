@@ -68,7 +68,6 @@ Example screenshot with links and research interests.
 Example screenshot of papers linked in an ORCID profile.
 
 :::
-
 ::::
 
 
@@ -83,7 +82,6 @@ Example screenshot of papers linked in an ORCID profile.
 ![Landing page](images/enter_nanodash.png)
 :::
 :::
-
 
 ## Introduction of an User
 
@@ -124,6 +122,20 @@ Once the introduction is published, you should now be able to view your name on 
 Finally, your name will appear under the latest nanopublications on your profile page.
 
 ![Latest Nanopublications](images/latest_nano.png)
+
+## Add "view display" to your profile
+
+To add display sections to your profile, click on the "+ view display" button and it will open a new page for adding a new display section.
+
+::: columns
+::: column
+![View display](images/view_display.png)
+:::
+
+::: column
+![Create a view display](images/create_view_display.png)
+:::
+:::
 
 ## Approval of an User
 
