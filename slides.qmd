@@ -119,6 +119,12 @@ Once the introduction is published, you should now be able to view your name on 
 
 ![Published introduction](images/name_profile.png)
 
+## View latest nanopub
+
+Finally, your name will appear under the latest nanopublications on your profile page.
+
+![Latest Nanopublications](images/latest_nano.png)
+
 ## Approval of an User
 
 Next on our list: approval of a user. Users can be approved by approved users.
