@@ -1,147 +1,147 @@
 [
   {
-    "objectID": "slides.html#what-is-a-nanopub",
-    "href": "slides.html#what-is-a-nanopub",
+    "objectID": "index.html#what-is-a-nanopub",
+    "href": "index.html#what-is-a-nanopub",
     "title": "Nanopub 101",
     "section": "What is a Nanopub?",
     "text": "What is a Nanopub?\n\n\n\nThink of a Nanopub as a little knowledge container\n\n This is an example Nanopub, a dataset description"
   },
   {
-    "objectID": "slides.html#register-your-account",
-    "href": "slides.html#register-your-account",
+    "objectID": "index.html#register-your-account",
+    "href": "index.html#register-your-account",
     "title": "Nanopub 101",
     "section": "Register your account",
     "text": "Register your account\nIf you have don’t have an account yet, please register at nanodash using your ORCID iD.\n\nRegistration page"
   },
   {
-    "objectID": "slides.html#interlude-what-is-an-orcid",
-    "href": "slides.html#interlude-what-is-an-orcid",
+    "objectID": "index.html#interlude-what-is-an-orcid",
+    "href": "index.html#interlude-what-is-an-orcid",
     "title": "Nanopub 101",
     "section": "Interlude: What is an ORCID?",
     "text": "Interlude: What is an ORCID?\nORCID stands for Open Researcher and Contributor ID.\n\nfree, unique & persitent ID\nshow your research interest, funding, employment and publications (sometimes they add automagically with crossref)\nuseful in research to be found:\n\nfor agencies to look you up during proposal reviews\nto find colleagues (and see how actively they are engaged and in which topics)"
   },
   {
-    "objectID": "slides.html#interlude-what-is-an-orcid-ii",
-    "href": "slides.html#interlude-what-is-an-orcid-ii",
+    "objectID": "index.html#interlude-what-is-an-orcid-ii",
+    "href": "index.html#interlude-what-is-an-orcid-ii",
     "title": "Nanopub 101",
     "section": "Interlude: What is an ORCID? II",
     "text": "Interlude: What is an ORCID? II\n\n\n\nExample screenshot with links and research interests.\n\n\nExample screenshot of papers linked in an ORCID profile."
   },
   {
-    "objectID": "slides.html#authorise-orcid-id-and-enter-your-nanodash-account",
-    "href": "slides.html#authorise-orcid-id-and-enter-your-nanodash-account",
+    "objectID": "index.html#authorise-orcid-id-and-enter-your-nanodash-account",
+    "href": "index.html#authorise-orcid-id-and-enter-your-nanodash-account",
     "title": "Nanopub 101",
     "section": "Authorise ORCID iD and enter your Nanodash account",
     "text": "Authorise ORCID iD and enter your Nanodash account\n\n\n\n\n\nAuthorise ORCID\n\n\n\n\n\n\nLanding page"
   },
   {
-    "objectID": "slides.html#introduction-of-an-user",
-    "href": "slides.html#introduction-of-an-user",
+    "objectID": "index.html#introduction-of-an-user",
+    "href": "index.html#introduction-of-an-user",
     "title": "Nanopub 101",
     "section": "Introduction of an User",
     "text": "Introduction of an User\nClick on the profile icon in the top right corner to access your profile page.\n\nProfile pageThen click on the “See Your Profile Details” button to access your profile details."
   },
   {
-    "objectID": "slides.html#create-introduction",
-    "href": "slides.html#create-introduction",
+    "objectID": "index.html#create-introduction",
+    "href": "index.html#create-introduction",
     "title": "Nanopub 101",
     "section": "Create Introduction",
     "text": "Create Introduction\nInside the Profile Details page, click on the “Create Introduction” button to create your introduction.\n\nCreate introduction"
   },
   {
-    "objectID": "slides.html#and-then",
-    "href": "slides.html#and-then",
+    "objectID": "index.html#and-then",
+    "href": "index.html#and-then",
     "title": "Nanopub 101",
     "section": "And then …",
     "text": "And then …\nOnce inside the introduction page, you will see a “Create Nanopublication” form.\n\nCreate nanopublication"
   },
   {
-    "objectID": "slides.html#complete-your-introduction",
-    "href": "slides.html#complete-your-introduction",
+    "objectID": "index.html#complete-your-introduction",
+    "href": "index.html#complete-your-introduction",
     "title": "Nanopub 101",
     "section": "Complete your introduction",
     "text": "Complete your introduction\nUnder the “Introducing a user” section, add your name as you would like it to appear on your profile.\n\nComplete introductionFinally, after you are happy to check the publication button, you should be able to click on the “Publish” button to publish your introduction."
   },
   {
-    "objectID": "slides.html#a-published-introduction",
-    "href": "slides.html#a-published-introduction",
+    "objectID": "index.html#a-published-introduction",
+    "href": "index.html#a-published-introduction",
     "title": "Nanopub 101",
     "section": "A published introduction …",
     "text": "A published introduction …\nOnce the introduction is published, you should now be able to view your name on it.\n\nPublished introduction"
   },
   {
-    "objectID": "slides.html#view-latest-nanopub",
-    "href": "slides.html#view-latest-nanopub",
+    "objectID": "index.html#view-latest-nanopub",
+    "href": "index.html#view-latest-nanopub",
     "title": "Nanopub 101",
     "section": "View latest nanopub",
     "text": "View latest nanopub\nFinally, your name will appear under the latest nanopublications on your profile page.\n\nLatest Nanopublications"
   },
   {
-    "objectID": "slides.html#add-view-display-to-your-profile",
-    "href": "slides.html#add-view-display-to-your-profile",
+    "objectID": "index.html#add-view-display-to-your-profile",
+    "href": "index.html#add-view-display-to-your-profile",
     "title": "Nanopub 101",
     "section": "Add “view display” to your profile",
     "text": "Add “view display” to your profile\nTo add display sections to your profile, click on the “+ view display” button and it will open a new page for adding a new display section.\n\n\n\n\n\nView display\n\n\n\n\n\n\nCreate a view display"
   },
   {
-    "objectID": "slides.html#approval-of-an-user",
-    "href": "slides.html#approval-of-an-user",
+    "objectID": "index.html#approval-of-an-user",
+    "href": "index.html#approval-of-an-user",
     "title": "Nanopub 101",
     "section": "Approval of an User",
     "text": "Approval of an User\nNext on our list: approval of a user. Users can be approved by approved users.\n\n\nTask: approve your neighbour(s)!"
   },
   {
-    "objectID": "slides.html#publish-using-a-template",
-    "href": "slides.html#publish-using-a-template",
+    "objectID": "index.html#publish-using-a-template",
+    "href": "index.html#publish-using-a-template",
     "title": "Nanopub 101",
     "section": "Publish using a Template",
     "text": "Publish using a Template\n\n\n\nSelect “Publish” from the menu.\n\n\nThen you can choose from the list of templates. (We are going to publish together. Please wait.)"
   },
   {
-    "objectID": "slides.html#your-first-nanopub",
-    "href": "slides.html#your-first-nanopub",
+    "objectID": "index.html#your-first-nanopub",
+    "href": "index.html#your-first-nanopub",
     "title": "Nanopub 101",
     "section": "Your first Nanopub!",
     "text": "Your first Nanopub!\nLet’s select an easy template: Search for “Announcing a paper I have read”\n\n\n\n\nSelect and enter a DOI of a recently read paper."
   },
   {
-    "objectID": "slides.html#modifying-a-template",
-    "href": "slides.html#modifying-a-template",
+    "objectID": "index.html#modifying-a-template",
+    "href": "index.html#modifying-a-template",
     "title": "Nanopub 101",
     "section": "Modifying a Template",
     "text": "Modifying a Template\nThere are many templates for different purposes and disciplines. But, sometimes you need some new template …\n\n\n\n\n\n\nFirst look, then leap\n\n\nIt is better not to “pollute” the nanopub template space. First look or ask for existing templates.\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nWe are not going to create a new template in this workshop. But we will briefly show you how its done."
   },
   {
-    "objectID": "slides.html#modifying-a-template-ii",
-    "href": "slides.html#modifying-a-template-ii",
+    "objectID": "index.html#modifying-a-template-ii",
+    "href": "index.html#modifying-a-template-ii",
     "title": "Nanopub 101",
     "section": "Modifying a Template II",
     "text": "Modifying a Template II\n\nstart by selecting a suitable (similar) template and select the little blue caret\n\nthen select “edit as derived nanopublication”"
   },
   {
-    "objectID": "slides.html#modifying-a-template-iii",
-    "href": "slides.html#modifying-a-template-iii",
+    "objectID": "index.html#modifying-a-template-iii",
+    "href": "index.html#modifying-a-template-iii",
     "title": "Nanopub 101",
     "section": "Modifying a Template III",
     "text": "Modifying a Template III\n\n\n\n\n\n\nStart small\n\n\nCreating a new assertion template can be difficult. Start with an easy (or small) one.\n\n\n\n\n\n\n\n\n\n\nAsk for input!\n\n\nIf you need substantial changes, ask for help. (In the end we show some resources.)"
   },
   {
-    "objectID": "slides.html#what-can-you-do-with-nanopubs",
-    "href": "slides.html#what-can-you-do-with-nanopubs",
+    "objectID": "index.html#what-can-you-do-with-nanopubs",
+    "href": "index.html#what-can-you-do-with-nanopubs",
     "title": "Nanopub 101",
     "section": "What can you do with Nanopubs?",
     "text": "What can you do with Nanopubs?\nConstruct knowledgegraphs for your paper!\n\n\n\n\nExample knowledgefrage for a data analysis workflow (which nanopub IDs)\n\n\nCreated with the Snakemake reporter plugin for posting workflow metadata.\n\n\n\n\n\n\nCiting Nanopubs\n\n\nRemember: nanopubs are unique persistent identifiers, worldwide accessible."
   },
   {
-    "objectID": "slides.html#what-can-you-do-with-nanopubs-ii",
-    "href": "slides.html#what-can-you-do-with-nanopubs-ii",
+    "objectID": "index.html#what-can-you-do-with-nanopubs-ii",
+    "href": "index.html#what-can-you-do-with-nanopubs-ii",
     "title": "Nanopub 101",
     "section": "What can you do with Nanopubs? II",
     "text": "What can you do with Nanopubs? II\nMore & more Citation Ontologies become available in Scholia:\n\nhttps://scholia.toolforge.org/cito/\n\n\n\n\n\nNanopub has a Template for your CiTOs\n\n\nDeclare CiTOs with this template."
   },
   {
-    "objectID": "slides.html#and-now-where-to-go-from-here",
-    "href": "slides.html#and-now-where-to-go-from-here",
+    "objectID": "index.html#and-now-where-to-go-from-here",
+    "href": "index.html#and-now-where-to-go-from-here",
     "title": "Nanopub 101",
     "section": "And now? Where to go from here?",
     "text": "And now? Where to go from here?\nThis workshop merely gave an overview. There is so much more:\n\nCommunity:\n\nNano Sessions - every last Tuesday of a month - reports from practitioners - you may ask questions - register here with a nanopub\nFENAC the “Fearless Early Nanopub Adopters Club” - sign up per nanopub, if you want to know more - members of this club get prioritized feature requests and can claim a free one-on-one call with a core nanopublication/Nanodash developer.\n\nResources:\n\nthe official tutorial selection\nthe documentation\n\nSoftware which offers an API for automated publication:\n\nthe Java library\nthe Python library\n\nSoftware which uses the API:\n\nthe Snakemake reporter plugin for posting workflow metadata"
