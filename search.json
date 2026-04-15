@@ -145,5 +145,19 @@
     "title": "Nanopub 101",
     "section": "And now? Where to go from here?",
     "text": "And now? Where to go from here?\nThis workshop merely gave an overview. There is so much more:\n\nCommunity:\n\nNano Sessions - every last Tuesday of a month - reports from practitioners - you may ask questions - register here with a nanopub\nFENAC the “Fearless Early Nanopub Adopters Club” - sign up per nanopub, if you want to know more - members of this club get prioritized feature requests and can claim a free one-on-one call with a core nanopublication/Nanodash developer.\n\nResources:\n\nthe official tutorial selection\nthe documentation\n\nSoftware which offers an API for automated publication:\n\nthe Java library\nthe Python library\n\nSoftware which uses the API:\n\nthe Snakemake reporter plugin for posting workflow metadata"
+  },
+  {
+    "objectID": "Readme.html",
+    "href": "Readme.html",
+    "title": "Nanopub 101",
+    "section": "",
+    "text": "This Nanopub 101 was created during the Open Science Retreat 2026 (Global Edition) in Machynlleth, Wales.\nFor more information, refer: https://nanodash.knowledgepixels.com/"
+  },
+  {
+    "objectID": "Readme.html#about",
+    "href": "Readme.html#about",
+    "title": "Nanopub 101",
+    "section": "",
+    "text": "This Nanopub 101 was created during the Open Science Retreat 2026 (Global Edition) in Machynlleth, Wales.\nFor more information, refer: https://nanodash.knowledgepixels.com/"
   }
 ]
