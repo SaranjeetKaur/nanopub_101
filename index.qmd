@@ -1,6 +1,11 @@
 ---
 title: "Nanopub 101"
 format: revealjs
+author:
+  - name: Christian Meesters
+    affiliation: Johannes Gutenberg University Mainz
+  - name: Saranjeet Kaur Bhogal
+    affiliation: Imperial College London
 ---
 
 ## What is a Nanopub?
